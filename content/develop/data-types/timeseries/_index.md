@@ -39,7 +39,7 @@ for full installation instructions.
 
 ## Client libraries
 
-Official and community client libraries in Python, Java, JavaScript, Ruby, Go, C#, Rust, and PHP. 
+Official and community client libraries in Python, Java, JavaScript, Ruby, Go, C#, and Rust. 
 
 See the [clients page](clients) for the full list.
 
